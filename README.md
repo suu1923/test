@@ -1,1 +1,25 @@
 ssr://dXMubXlzcy50dzoxMDkxMTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjA6cGxhaW46YlhsemMyOXFZbXM9Lz9vYmZzcGFyYW09VG05dVpRPT0mcHJvdG9wYXJhbT1NVFF5TkRwVGRuTXpaa2s1YWpSR05YYz0mcmVtYXJrcz01NzZPNVp1OUlFNWxkR1pzYVhnZzVhU241ckMwNTY2aDZLZUc2YUtSJmdyb3VwPWJYbHpjeTUwZHc9PQ==
+
+
+仅支持 SSR
+
+javascript:;
+节点ip:	us.myss.tw
+端口:	10911
+密码:	myssojbk
+加密方式:	chacha20
+协议:	auth_aes128_md5
+协议参数（None表示不填）:	1424:Svs3fI9j4F5w
+混淆:	plain
+混淆参数（None表示不填）:	None
+SSR链接
+
+ssr://dXMubXlzcy50dzoxMDkxMTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjA6cGxhaW46YlhsemMyOXFZbXM9Lz9vYmZzcGFyYW09VG05dVpRPT0mcHJvdG9wYXJhbT1NVFF5TkRwVGRuTXpaa2s1YWpSR05YYz0mcmVtYXJrcz01NzZPNVp1OUlFNWxkR1pzYVhnZ01lV0FqZWExZ2VtSGotYTJpT2lBbHc9PSZncm91cD1iWGx6Y3k1MGR3PT0=
+
+订阅链接
+
+点击按钮复制链接至客户端的订阅处
+
+https://api.myss.tw/server/subscribe/bmFuMjE=/
+
+
